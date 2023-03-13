@@ -1,0 +1,18 @@
+En Español:
+
+Si llegaste hasta aqui, es porque ya clonaste
+el repositorio del PREPCOUSE. 
+
+Solamente debes dar clic en la carpeta M02 Terminal,Git y Github
+y luego en homework.md; Y seguir las instrucciones; pues no amerita una explicacion
+este modulo.
+
+In English:
+
+if you arrive until here, is because already you cloned
+the repository of the PREPCOUSE.
+
+Only you should give click on the folder **M02 Terminal,Git y Github**
+and then in **homework.md**; and follow the instruccions; Well this module does not deserve an explanation.
+
+
